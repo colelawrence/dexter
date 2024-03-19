@@ -51,6 +51,9 @@ async function main() {
     }
   );
 
+  // ensure docs directory exists
+  await fs.mkdir(docsDir, { recursive: true });
+
   {
     // top-level nextra _meta.json file
     const docsMeta = {
