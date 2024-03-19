@@ -26,11 +26,11 @@ Error.constructor
 
 #### Source
 
-[src/prompt/utils/errors.ts:5](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/errors.ts#L5)
+[src/prompt/utils/errors.ts:5](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/errors.ts#L5)
 
 ## Properties
 
 | Modifier | Property | Type | Description | Inheritance | Source |
 | :------ | :------ | :------ | :------ | :------ | :------ |
-| `readonly` | `name` | `"AbortError"` | - | Error.name | [src/prompt/utils/errors.ts:2](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/errors.ts#L2) |
-| `readonly` | `originalError` | `Error` | - | - | [src/prompt/utils/errors.ts:3](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/errors.ts#L3) |
+| `readonly` | `name` | `"AbortError"` | - | Error.name | [src/prompt/utils/errors.ts:2](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/errors.ts#L2) |
+| `readonly` | `originalError` | `Error` | - | - | [src/prompt/utils/errors.ts:3](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/errors.ts#L3) |

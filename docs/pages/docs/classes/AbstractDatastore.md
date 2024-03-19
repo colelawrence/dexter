@@ -30,14 +30,14 @@
 
 #### Source
 
-[src/datastore/datastore.ts:36](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L36)
+[src/datastore/datastore.ts:36](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L36)
 
 ## Properties
 
 | Modifier | Property | Type | Description | Source |
 | :------ | :------ | :------ | :------ | :------ |
-| `abstract` | `datastoreProvider` | [`Provider`](../namespaces/Datastore/type-aliases/Provider.md) | - | [src/datastore/datastore.ts:26](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L26) |
-| `abstract` | `datastoreType` | [`Type`](../namespaces/Datastore/type-aliases/Type.md) | - | [src/datastore/datastore.ts:25](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L25) |
+| `abstract` | `datastoreProvider` | [`Provider`](../namespaces/Datastore/type-aliases/Provider.md) | - | [src/datastore/datastore.ts:26](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L26) |
+| `abstract` | `datastoreType` | [`Type`](../namespaces/Datastore/type-aliases/Type.md) | - | [src/datastore/datastore.ts:25](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L25) |
 
 ## Methods
 
@@ -59,7 +59,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/datastore.ts:153](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L153)
+[src/datastore/datastore.ts:153](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L153)
 
 ***
 
@@ -79,7 +79,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/datastore.ts:22](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L22)
+[src/datastore/datastore.ts:22](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L22)
 
 ***
 
@@ -93,7 +93,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/datastore.ts:23](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L23)
+[src/datastore/datastore.ts:23](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L23)
 
 ***
 
@@ -109,7 +109,7 @@ Get the current event handlers
 
 #### Source
 
-[src/datastore/datastore.ts:148](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L148)
+[src/datastore/datastore.ts:148](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L148)
 
 ***
 
@@ -130,7 +130,7 @@ Get the current event handlers
 
 #### Source
 
-[src/datastore/datastore.ts:53](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L53)
+[src/datastore/datastore.ts:53](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L53)
 
 ***
 
@@ -153,7 +153,7 @@ Set to empty object `{}` to remove all events.
 
 #### Source
 
-[src/datastore/datastore.ts:162](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L162)
+[src/datastore/datastore.ts:162](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L162)
 
 ***
 
@@ -174,4 +174,4 @@ Set to empty object `{}` to remove all events.
 
 #### Source
 
-[src/datastore/datastore.ts:18](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L18)
+[src/datastore/datastore.ts:18](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L18)

@@ -6,4 +6,4 @@ Parameters to execute a runner
 
 ## Source
 
-[src/prompt/types.ts:16](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L16)
+[src/prompt/types.ts:16](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L16)

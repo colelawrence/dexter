@@ -4,4 +4,4 @@
 
 ## Source
 
-[src/model/completion.ts:8](https://github.com/dexaai/llm-tools/blob/f300435/src/model/completion.ts#L8)
+[src/model/completion.ts:8](https://github.com/colelawrence/dexter/blob/6b94c49/src/model/completion.ts#L8)

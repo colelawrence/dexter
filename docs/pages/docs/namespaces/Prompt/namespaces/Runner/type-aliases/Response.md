@@ -12,4 +12,4 @@ Response from executing a runner
 
 ## Source
 
-[src/prompt/types.ts:29](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L29)
+[src/prompt/types.ts:29](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L29)

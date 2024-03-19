@@ -23,4 +23,4 @@ A runner that iteratively calls the model and handles function calls.
 
 ## Source
 
-[src/prompt/types.ts:9](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L9)
+[src/prompt/types.ts:9](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L9)

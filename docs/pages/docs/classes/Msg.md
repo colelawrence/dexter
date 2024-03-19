@@ -35,7 +35,7 @@ Create an assistant message. Cleans indentation and newlines by default.
 
 #### Source
 
-[src/prompt/utils/message.ts:56](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L56)
+[src/prompt/utils/message.ts:56](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L56)
 
 ***
 
@@ -61,7 +61,7 @@ Create a function call message with argumets.
 
 #### Source
 
-[src/prompt/utils/message.ts:74](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L74)
+[src/prompt/utils/message.ts:74](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L74)
 
 ***
 
@@ -84,7 +84,7 @@ Create a function result message.
 
 #### Source
 
-[src/prompt/utils/message.ts:95](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L95)
+[src/prompt/utils/message.ts:95](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L95)
 
 ***
 
@@ -106,7 +106,7 @@ Get the narrowed message from an EnrichedResponse.
 
 #### Source
 
-[src/prompt/utils/message.ts:130](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L130)
+[src/prompt/utils/message.ts:130](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L130)
 
 ***
 
@@ -128,7 +128,7 @@ Check if a message is an assistant message.
 
 #### Source
 
-[src/prompt/utils/message.ts:165](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L165)
+[src/prompt/utils/message.ts:165](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L165)
 
 ***
 
@@ -150,7 +150,7 @@ Check if a message is a function call message with arguments.
 
 #### Source
 
-[src/prompt/utils/message.ts:169](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L169)
+[src/prompt/utils/message.ts:169](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L169)
 
 ***
 
@@ -172,7 +172,7 @@ Check if a message is a function result message.
 
 #### Source
 
-[src/prompt/utils/message.ts:173](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L173)
+[src/prompt/utils/message.ts:173](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L173)
 
 ***
 
@@ -194,7 +194,7 @@ Check if a message is a system message.
 
 #### Source
 
-[src/prompt/utils/message.ts:157](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L157)
+[src/prompt/utils/message.ts:157](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L157)
 
 ***
 
@@ -216,7 +216,7 @@ Check if a message is a tool calls message.
 
 #### Source
 
-[src/prompt/utils/message.ts:177](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L177)
+[src/prompt/utils/message.ts:177](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L177)
 
 ***
 
@@ -238,7 +238,7 @@ Check if a message is a tool call result message.
 
 #### Source
 
-[src/prompt/utils/message.ts:181](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L181)
+[src/prompt/utils/message.ts:181](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L181)
 
 ***
 
@@ -260,7 +260,7 @@ Check if a message is a user message.
 
 #### Source
 
-[src/prompt/utils/message.ts:161](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L161)
+[src/prompt/utils/message.ts:161](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L161)
 
 ***
 
@@ -284,7 +284,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:186](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L186)
+[src/prompt/utils/message.ts:186](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L186)
 
 #### narrow(message)
 
@@ -302,7 +302,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:187](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L187)
+[src/prompt/utils/message.ts:187](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L187)
 
 #### narrow(message)
 
@@ -320,7 +320,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:188](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L188)
+[src/prompt/utils/message.ts:188](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L188)
 
 #### narrow(message)
 
@@ -338,7 +338,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:189](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L189)
+[src/prompt/utils/message.ts:189](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L189)
 
 #### narrow(message)
 
@@ -356,7 +356,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:190](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L190)
+[src/prompt/utils/message.ts:190](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L190)
 
 #### narrow(message)
 
@@ -374,7 +374,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:191](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L191)
+[src/prompt/utils/message.ts:191](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L191)
 
 #### narrow(message)
 
@@ -392,7 +392,7 @@ Narrow a ChatModel.Message to a specific type.
 
 ##### Source
 
-[src/prompt/utils/message.ts:192](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L192)
+[src/prompt/utils/message.ts:192](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L192)
 
 ***
 
@@ -414,7 +414,7 @@ Narrow a message received from the API. It only responds with role=assistant
 
 #### Source
 
-[src/prompt/utils/message.ts:140](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L140)
+[src/prompt/utils/message.ts:140](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L140)
 
 ***
 
@@ -439,7 +439,7 @@ Create a system message. Cleans indentation and newlines by default.
 
 #### Source
 
-[src/prompt/utils/message.ts:20](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L20)
+[src/prompt/utils/message.ts:20](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L20)
 
 ***
 
@@ -463,7 +463,7 @@ Create a function call message with argumets.
 
 #### Source
 
-[src/prompt/utils/message.ts:101](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L101)
+[src/prompt/utils/message.ts:101](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L101)
 
 ***
 
@@ -488,7 +488,7 @@ Create a tool call result message.
 
 #### Source
 
-[src/prompt/utils/message.ts:117](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L117)
+[src/prompt/utils/message.ts:117](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L117)
 
 ***
 
@@ -513,4 +513,4 @@ Create a user message. Cleans indentation and newlines by default.
 
 #### Source
 
-[src/prompt/utils/message.ts:38](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/message.ts#L38)
+[src/prompt/utils/message.ts:38](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/message.ts#L38)

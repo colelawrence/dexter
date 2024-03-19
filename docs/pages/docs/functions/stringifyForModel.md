@@ -18,4 +18,4 @@ This is intended to be used with `function` and `tool` arguments and responses.
 
 ## Source
 
-[src/prompt/functions/stringify-for-model.ts:8](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/functions/stringify-for-model.ts#L8)
+[src/prompt/functions/stringify-for-model.ts:8](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/functions/stringify-for-model.ts#L8)

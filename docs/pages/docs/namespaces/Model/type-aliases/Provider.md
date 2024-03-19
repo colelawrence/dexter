@@ -6,4 +6,4 @@ The provider of the model (eg: OpenAI)
 
 ## Source
 
-[src/model/types.ts:219](https://github.com/dexaai/llm-tools/blob/f300435/src/model/types.ts#L219)
+[src/model/types.ts:219](https://github.com/colelawrence/dexter/blob/6b94c49/src/model/types.ts#L219)

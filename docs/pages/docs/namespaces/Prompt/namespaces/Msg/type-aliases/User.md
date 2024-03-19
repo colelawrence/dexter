@@ -20,4 +20,4 @@ Message with text content from the user.
 
 ## Source
 
-[src/prompt/types.ts:134](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L134)
+[src/prompt/types.ts:134](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L134)

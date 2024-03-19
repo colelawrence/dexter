@@ -41,14 +41,14 @@
 
 #### Source
 
-[src/datastore/pinecone/datastore.ts:14](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L14)
+[src/datastore/pinecone/datastore.ts:14](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L14)
 
 ## Properties
 
 | Property | Type | Description | Inheritance | Source |
 | :------ | :------ | :------ | :------ | :------ |
-| `datastoreProvider` | `"pinecone"` | - | [`AbstractDatastore`](AbstractDatastore.md).`datastoreProvider` | [src/datastore/pinecone/datastore.ts:11](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L11) |
-| `datastoreType` | `"embedding"` | - | [`AbstractDatastore`](AbstractDatastore.md).`datastoreType` | [src/datastore/pinecone/datastore.ts:10](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L10) |
+| `datastoreProvider` | `"pinecone"` | - | [`AbstractDatastore`](AbstractDatastore.md).`datastoreProvider` | [src/datastore/pinecone/datastore.ts:11](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L11) |
+| `datastoreType` | `"embedding"` | - | [`AbstractDatastore`](AbstractDatastore.md).`datastoreType` | [src/datastore/pinecone/datastore.ts:10](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L10) |
 
 ## Methods
 
@@ -74,7 +74,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/datastore.ts:153](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L153)
+[src/datastore/datastore.ts:153](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L153)
 
 ***
 
@@ -98,7 +98,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/pinecone/datastore.ts:153](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L153)
+[src/datastore/pinecone/datastore.ts:153](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L153)
 
 ***
 
@@ -116,7 +116,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/pinecone/datastore.ts:157](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L157)
+[src/datastore/pinecone/datastore.ts:157](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L157)
 
 ***
 
@@ -136,7 +136,7 @@ Get the current event handlers
 
 #### Source
 
-[src/datastore/datastore.ts:148](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L148)
+[src/datastore/datastore.ts:148](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L148)
 
 ***
 
@@ -161,7 +161,7 @@ Get the current event handlers
 
 #### Source
 
-[src/datastore/datastore.ts:53](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L53)
+[src/datastore/datastore.ts:53](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L53)
 
 ***
 
@@ -186,7 +186,7 @@ AbstractDatastore.runQuery
 
 #### Source
 
-[src/datastore/pinecone/datastore.ts:30](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L30)
+[src/datastore/pinecone/datastore.ts:30](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L30)
 
 ***
 
@@ -213,7 +213,7 @@ Set to empty object `{}` to remove all events.
 
 #### Source
 
-[src/datastore/datastore.ts:162](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L162)
+[src/datastore/datastore.ts:162](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L162)
 
 ***
 
@@ -238,4 +238,4 @@ Set to empty object `{}` to remove all events.
 
 #### Source
 
-[src/datastore/pinecone/datastore.ts:74](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/datastore.ts#L74)
+[src/datastore/pinecone/datastore.ts:74](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/datastore.ts#L74)

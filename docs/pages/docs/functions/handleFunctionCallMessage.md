@@ -22,4 +22,4 @@ Note: Does not include args.message in the returned array
 
 ## Source
 
-[src/prompt/functions/ai-runner.ts:166](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/functions/ai-runner.ts#L166)
+[src/prompt/functions/ai-runner.ts:189](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/functions/ai-runner.ts#L189)

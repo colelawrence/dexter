@@ -25,14 +25,14 @@ The implementation of the function, with arg parsing and validation.
 
 ## Source
 
-[src/prompt/types.ts:67](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L67)
+[src/prompt/types.ts:67](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L67)
 
 ## Properties
 
 | Property | Type | Description | Source |
 | :------ | :------ | :------ | :------ |
-| `argsSchema` | `Schema` | The Zod schema for the arguments string. | [src/prompt/types.ts:69](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L69) |
-| `spec` | [`AIFunctionSpec`](AIFunctionSpec.md) | The function spec for the OpenAI API `functions` property. | [src/prompt/types.ts:73](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L73) |
+| `argsSchema` | `Schema` | The Zod schema for the arguments string. | [src/prompt/types.ts:69](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L69) |
+| `spec` | [`AIFunctionSpec`](AIFunctionSpec.md) | The function spec for the OpenAI API `functions` property. | [src/prompt/types.ts:73](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L73) |
 
 ## Methods
 
@@ -54,4 +54,4 @@ Parse the function arguments from a message.
 
 #### Source
 
-[src/prompt/types.ts:71](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L71)
+[src/prompt/types.ts:71](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L71)

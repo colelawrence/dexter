@@ -8,4 +8,4 @@
 
 | Property | Type | Description | Source |
 | :------ | :------ | :------ | :------ |
-| `messages` | `ChatMessage`[] | - | [src/model/types.ts:52](https://github.com/dexaai/llm-tools/blob/f300435/src/model/types.ts#L52) |
+| `messages` | `ChatMessage`[] | - | [src/model/types.ts:52](https://github.com/colelawrence/dexter/blob/6b94c49/src/model/types.ts#L52) |

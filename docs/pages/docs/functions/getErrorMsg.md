@@ -16,4 +16,4 @@ Get the error message string from an unknown type.
 
 ## Source
 
-[src/prompt/utils/get-error-message.ts:27](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/utils/get-error-message.ts#L27)
+[src/prompt/utils/get-error-message.ts:27](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/utils/get-error-message.ts#L27)

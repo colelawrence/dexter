@@ -42,14 +42,14 @@
 
 #### Source
 
-[src/datastore/pinecone/hybrid-datastore.ts:15](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L15)
+[src/datastore/pinecone/hybrid-datastore.ts:15](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L15)
 
 ## Properties
 
 | Property | Type | Description | Inheritance | Source |
 | :------ | :------ | :------ | :------ | :------ |
-| `datastoreProvider` | `"pinecone"` | - | [`AbstractHybridDatastore`](AbstractHybridDatastore.md).`datastoreProvider` | [src/datastore/pinecone/hybrid-datastore.ts:12](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L12) |
-| `datastoreType` | `"hybrid"` | - | [`AbstractHybridDatastore`](AbstractHybridDatastore.md).`datastoreType` | [src/datastore/pinecone/hybrid-datastore.ts:11](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L11) |
+| `datastoreProvider` | `"pinecone"` | - | [`AbstractHybridDatastore`](AbstractHybridDatastore.md).`datastoreProvider` | [src/datastore/pinecone/hybrid-datastore.ts:12](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L12) |
+| `datastoreType` | `"hybrid"` | - | [`AbstractHybridDatastore`](AbstractHybridDatastore.md).`datastoreType` | [src/datastore/pinecone/hybrid-datastore.ts:11](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L11) |
 
 ## Methods
 
@@ -75,7 +75,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/datastore.ts:153](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L153)
+[src/datastore/datastore.ts:153](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L153)
 
 ***
 
@@ -99,7 +99,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/pinecone/hybrid-datastore.ts:176](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L176)
+[src/datastore/pinecone/hybrid-datastore.ts:176](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L176)
 
 ***
 
@@ -117,7 +117,7 @@ Add event handlers to the datastore.
 
 #### Source
 
-[src/datastore/pinecone/hybrid-datastore.ts:180](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L180)
+[src/datastore/pinecone/hybrid-datastore.ts:180](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L180)
 
 ***
 
@@ -137,7 +137,7 @@ Get the current event handlers
 
 #### Source
 
-[src/datastore/datastore.ts:148](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L148)
+[src/datastore/datastore.ts:148](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L148)
 
 ***
 
@@ -162,7 +162,7 @@ Get the current event handlers
 
 #### Source
 
-[src/datastore/datastore.ts:53](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L53)
+[src/datastore/datastore.ts:53](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L53)
 
 ***
 
@@ -187,7 +187,7 @@ AbstractHybridDatastore.runQuery
 
 #### Source
 
-[src/datastore/pinecone/hybrid-datastore.ts:31](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L31)
+[src/datastore/pinecone/hybrid-datastore.ts:31](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L31)
 
 ***
 
@@ -214,7 +214,7 @@ Set to empty object `{}` to remove all events.
 
 #### Source
 
-[src/datastore/datastore.ts:162](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/datastore.ts#L162)
+[src/datastore/datastore.ts:162](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/datastore.ts#L162)
 
 ***
 
@@ -239,4 +239,4 @@ Set to empty object `{}` to remove all events.
 
 #### Source
 
-[src/datastore/pinecone/hybrid-datastore.ts:89](https://github.com/dexaai/llm-tools/blob/f300435/src/datastore/pinecone/hybrid-datastore.ts#L89)
+[src/datastore/pinecone/hybrid-datastore.ts:89](https://github.com/colelawrence/dexter/blob/6b94c49/src/datastore/pinecone/hybrid-datastore.ts#L89)

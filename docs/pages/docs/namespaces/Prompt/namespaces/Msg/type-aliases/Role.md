@@ -6,4 +6,4 @@ The possible roles for a message.
 
 ## Source
 
-[src/prompt/types.ts:104](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L104)
+[src/prompt/types.ts:104](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L104)

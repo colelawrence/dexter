@@ -23,4 +23,4 @@ A function used to extract data using OpenAI function calling.
 
 ## Source
 
-[src/prompt/types.ts:48](https://github.com/dexaai/llm-tools/blob/f300435/src/prompt/types.ts#L48)
+[src/prompt/types.ts:48](https://github.com/colelawrence/dexter/blob/6b94c49/src/prompt/types.ts#L48)

@@ -10,4 +10,4 @@
 
 ## Source
 
-[src/model/types.ts:87](https://github.com/dexaai/llm-tools/blob/f300435/src/model/types.ts#L87)
+[src/model/types.ts:87](https://github.com/colelawrence/dexter/blob/6b94c49/src/model/types.ts#L87)
