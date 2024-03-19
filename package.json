@@ -1,11 +1,11 @@
 {
-  "name": "@dexaai/dexter",
+  "name": "colelawrence-dexaai-dexter-fork",
   "type": "module",
   "version": "1.2.8",
   "description": "LLM tools used in production at Dexa, with a focus on real-world RAG.",
-  "repository": "dexaai/dexter",
+  "repository": "colelawrence/dexter",
   "license": "MIT",
-  "author": "Riley Tomasek <riley@dexa.ai>",
+  "author": "Cole Lawrence <cole@colelawrence.com>",
   "contributors": [
     "Riley Tomasek <riley@dexa.ai>",
     "Travis Fischer <travis@transitivebullsh.it>"
